@@ -1,0 +1,13 @@
+{
+  "name": "aurawear-credit-ai",
+  "version": "1.0.0",
+  "description": "Working clothing brand + embedded lending/credit AI business model dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
